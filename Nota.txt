@@ -1,0 +1,2 @@
+Este archivo se crea para cumplir con el tercer commit de la actividad INF512.
+Se puede usar para agregar notas o comentarios adicionales sobre el proyecto.
